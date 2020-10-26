@@ -11,4 +11,3 @@ SortButtons.generateSortBtns(data);
 Form.generateForm(data);
 Table.clearTbodyBtn();
 SortButtons.sortBtnsHandler();
-
